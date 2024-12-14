@@ -1,5 +1,5 @@
 Overview : 
-    The Startup Insights Dashboard is an interactive data analysis and visualization tool designed to uncover trends and insights from startup funding data. 
+    The Startup Synergy Dashboard is an interactive data analysis and visualization tool designed to uncover trends and insights from startup funding data. 
     Built using Streamlit, the project leverages Python libraries like Pandas, Matplotlib, and Seaborn to present meaningful insights into funding trends, investor activities, and startup performance.
     The application provides a comprehensive view of the startup ecosystem by analyzing key metrics, visualizing trends, and offering detailed information about specific startups and investors. 
     It bridges the gap between raw data and actionable intelligence, making it a valuable resource for entrepreneurs, investors, and analysts.
@@ -14,7 +14,7 @@ Conclusion :
   This project showcases the power of data analytics in driving business insights and strategic decisions. By transforming raw startup funding data into a user-friendly dashboard, 
   it demonstrates skills in data manipulation, visualization, and web-based analytics tool development.
   
-  The Startup Insights Dashboard is an excellent addition to a portfolio, highlighting expertise in:
+  The Startup Synergy Dashboard is an excellent addition to a portfolio, highlighting expertise in:
   
   Data Analysis: Extracting and interpreting key insights from large datasets.
   Visualization: Communicating complex information effectively through visual tools.
